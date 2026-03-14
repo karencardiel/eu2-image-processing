@@ -6,7 +6,7 @@ The filters implemented are:
 
 * **Gaussian Filter:** Image smoothing and noise reduction.
 * **Sobel Filter:** Edge detection via gradient magnitude.
-* **Median Filter:** Non-linear noise reduction (Salt & Pepper).
+* **Median Filter:** Non-linear noise reduction (Salt and Pepper).
 
 
 ## 🍌 Project Structure
@@ -15,7 +15,7 @@ The filters implemented are:
 image-processing/
 ├── benchmark.py            # Main execution script
 ├── mono.jpeg               # Sample input image
-├── filters/                # Pure Python & NumPy implementations
+├── filters/                # Pure Python and NumPy implementations
 │   ├── gaussian_python.py
 │   ├── gaussian_numpy.py
 │   ├── sobel_python.py
