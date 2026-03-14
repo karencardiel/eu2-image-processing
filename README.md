@@ -34,7 +34,7 @@ image-processing/
 ### 1. Clone the Repository
 
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/karencardiel/eu2-image-processing.git
 cd image-processing
 ```
 
