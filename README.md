@@ -1,4 +1,4 @@
-# <img src="https://slackmojis.com/emojis/78198-monkeyplsq/download" width="50"> Image Processing (Python vs NumPy vs Cython)
+# <img src="https://slackmojis.com/emojis/78198-monkeyplsq/download" width="45"> Image Processing (Python vs NumPy vs Cython)
 
 ## 🍌 Overview
 
