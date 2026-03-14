@@ -15,3 +15,6 @@ build/
 # --- Mac & IDEs ---
 .DS_Store
 .vscode/
+
+# --- Outputs ---
+results/
