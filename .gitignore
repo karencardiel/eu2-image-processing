@@ -1,0 +1,20 @@
+# --- Python y Envs ---
+__pycache__/
+*.py[cod]
+bin/
+lib/
+include/
+pyvenv.cfg
+venv/
+
+# --- Cython ---
+cython_filters/*.c
+*.so
+build/
+
+# --- Mac & IDEs ---
+.DS_Store
+.vscode/
+
+# --- Outputs ---
+results/
