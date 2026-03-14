@@ -1,4 +1,4 @@
-# <img src="https://slackmojis.com/emojis/78198-monkeyplsq/download" width="45"> Comparison of Optimization for Image Processing Techniques
+# <img src="https://slackmojis.com/emojis/78198-monkeyplsq/download" width="45"> Image Processing
 
 This activity compares the performance of three different implementations of common image processing filters. The goal is to evaluate how low-level optimizations and vectorization affect execution time when processing image data.
 
