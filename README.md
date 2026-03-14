@@ -1,8 +1,6 @@
 # <img src="https://slackmojis.com/emojis/78198-monkeyplsq/download" width="45"> Image Processing (Python vs NumPy vs Cython)
 
-## 🍌 Overview
-
-This project compares the performance of three different implementations of common image processing filters. As a **Data Engineering** exercise, the goal is to evaluate how low-level optimizations and vectorization affect execution time when processing image data.
+This project compares the performance of three different implementations of common image processing filters. The goal is to evaluate how low-level optimizations and vectorization affect execution time when processing image data.
 
 The filters implemented are:
 
